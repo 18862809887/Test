@@ -12700,11 +12700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Winston\\data_task\\20190710\\FirstAspApi\\FirstAspApi\\FirstAspApi.csproj",
+      "projectUniqueName": "D:\\learnGit\\FirstAspApi\\FirstAspApi\\FirstAspApi.csproj",
       "projectName": "FirstAspApi",
-      "projectPath": "D:\\Winston\\data_task\\20190710\\FirstAspApi\\FirstAspApi\\FirstAspApi.csproj",
+      "projectPath": "D:\\learnGit\\FirstAspApi\\FirstAspApi\\FirstAspApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Winston\\data_task\\20190710\\FirstAspApi\\FirstAspApi\\obj\\",
+      "outputPath": "D:\\learnGit\\FirstAspApi\\FirstAspApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
