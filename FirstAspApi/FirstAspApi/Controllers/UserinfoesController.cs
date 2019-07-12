@@ -24,7 +24,6 @@ namespace FirstAspApi.Controllers
         [HttpGet]
         public IEnumerable<Userinfo> GetUserinfo()
         {
-            Console.Write("进入GetUserinfo方法");
             return _context.Userinfo;
         }
 
@@ -46,6 +45,7 @@ namespace FirstAspApi.Controllers
 
             return Ok(userinfo);
         }
+       
 
         // PUT: api/Userinfoes/5
         [HttpPut("{id}")]

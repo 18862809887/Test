@@ -9,10 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="lib\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
@@ -22,7 +18,7 @@
 
   <ItemGroup>
     <Reference Include="Mono.Security">
-      <HintPath>lib\Mono.Security.dll</HintPath>
+      <HintPath>..\..\..\Winston\data_task\20190709\Npgsql-2.2.3-net45\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="Npgsql">
       <HintPath>lib\Npgsql.dll</HintPath>
